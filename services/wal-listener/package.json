@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@efp/shared": "*",
-    "pg-boss": "^9.0.0"
+    "pg-boss": "^12.40.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
